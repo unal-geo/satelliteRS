@@ -13,12 +13,13 @@ The increasing human impact on the environment has led to the development of new
 4. Object-Based classification
 
 5. Quantitative remote sensing
-
+   - [Soil Moisture Estimation](https://code.earthengine.google.com/?asset=users/ializarazos/soil)
+   
 6. Land cover change analysis
-
+   - [Ilustration of metrics for land cover change](https://rpubs.com/ials2un/LUC_MODIS)
 
 ### Links
 
 ### Contact
 
-Do you want to contribute? [Drop us an e-mail](rs4all@zohomail.com) and we’ll help you sort it out.
+Do you want to contribute? [Drop us an e-mail](mailto:rs4all@zohomail.com) and we’ll help you sort it out.
