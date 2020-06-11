@@ -1,21 +1,20 @@
-## UAV for Agriculture 
+## Satellite Remote Sensing
 
-Drones can help to make agriculture more productive and sustainable. However, to
-properly exploit their potential,  it is necessary to test concepts, techniques and tools able to collect, process, and analyze data and produce useful information to support farmers and help them achieve their targets.
+The increasing human impact on the environment has led to the development of new observation and analysis tools to monitor types, magnitudes, and rates of environmental changes. Earth Observation (EO) satellite systems and improved mapping and analysis tools are enabling a better understanding of the social, ecological and environmental interactions that transform Earth systems, which is critical for developing sustainable solutions. 
 
 ### Organization
 
-1. Project Preparation
+1. Radiometric corrections
 
-2. Flight Planning
+2. Geometric corrections
 
-3. Data Collection
+3. Pixel-based classification
 
-4. Data Pre-processing
+4. Object-Based classification
 
-5. Data Processing
+5. Quantitative remote sensing
 
-6. Data Analysis
+6. Land cover change analysis
 
 
 ### Links
