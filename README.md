@@ -4,21 +4,25 @@ The increasing human impact on the environment has led to the development of new
 
 ### Organization
 
-1. Radiometric corrections
+#### 1. Radiometric corrections
 
-2. Geometric corrections
+#### 2. Geometric corrections
 
-3. Pixel-based classification
+#### 3. Pixel-based classification
 
-4. Object-Based classification
+#### 4. Object-Based classification
 
-5. Quantitative remote sensing
+#### 5. Quantitative remote sensing
+   
    - [Soil Moisture Estimation](https://code.earthengine.google.com/?asset=users/ializarazos/soil)
    
-6. Land cover change analysis
+#### 6. Land cover change analysis
+   
    - [Ilustration of metrics for land cover change](https://rpubs.com/ials2un/LUC_MODIS)
 
 ### Links
+
+
 
 ### Contact
 
