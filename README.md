@@ -4,6 +4,8 @@ The increasing human impact on the environment has led to the development of new
 
 ### Contents
 
+Here you will find code and tutorials contributed by researchers at Universidad Nacional de Colombia and Universidad Distrital Francisco José de Caldas. 
+
 #### 1. Radiometric corrections
 
 - [Cirrus correction of Landsat 8 imagery](https://jorlrodriguezg.github.io/Cirrus_Correction_All_Bands_L8.html)
