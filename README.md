@@ -16,6 +16,8 @@ Here you will find code and tutorials contributed by researchers at Universidad 
 
 #### 4. Object-Based classification
 
+- [Segmentation of RGB natural color images](https://rpubs.com/ials2un/segment_rgb)
+
 #### 5. Quantitative remote sensing
    
 - [Soil Moisture Estimation](https://code.earthengine.google.com/?scriptPath=users%2Fializarazos%2Faplicaciones%3Amorocco%2Fssm7)
