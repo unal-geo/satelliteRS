@@ -22,7 +22,7 @@ The increasing human impact on the environment has led to the development of new
    
 #### 6. Land cover change analysis
    
-     - [Ilustration of metrics for land cover change](https://rpubs.com/ials2un/LUC_MODIS)
+- [Ilustration of metrics for land cover change analysis](https://rpubs.com/ials2un/LUC_MODIS)
 
 ### Links
 
