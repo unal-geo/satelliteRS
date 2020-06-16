@@ -6,6 +6,8 @@ The increasing human impact on the environment has led to the development of new
 
 #### 1. Radiometric corrections
 
+        - [Cirrus correction of Landsat 8 imagery](https://jorlrodriguezg.github.io/Cirrus_Correction_All_Bands_L8.html)
+
 #### 2. Geometric corrections
 
 #### 3. Pixel-based classification
@@ -14,12 +16,13 @@ The increasing human impact on the environment has led to the development of new
 
 #### 5. Quantitative remote sensing
    
-#####   - [Soil Moisture Estimation](https://code.earthengine.google.com/?scriptPath=users%2Fializarazos%2Faplicaciones%3Amorocco%2Fssm7)
-#####      - [Reference Soil Moisture Data](https://code.earthengine.google.com/?asset=users/ializarazos/soil/MV_S1A_MAROC-HAOUZ_20191205T183323)
+        - [Soil Moisture Estimation](https://code.earthengine.google.com/?scriptPath=users%2Fializarazos%2Faplicaciones%3Amorocco%2Fssm7)
+
+        - [Reference Soil Moisture Data](https://code.earthengine.google.com/?asset=users/ializarazos/soil/MV_S1A_MAROC-HAOUZ_20191205T183323)
    
 #### 6. Land cover change analysis
    
-   - [Ilustration of metrics for land cover change](https://rpubs.com/ials2un/LUC_MODIS)
+        - [Ilustration of metrics for land cover change](https://rpubs.com/ials2un/LUC_MODIS)
 
 ### Links
 
