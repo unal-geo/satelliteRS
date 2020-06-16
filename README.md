@@ -17,7 +17,6 @@ The increasing human impact on the environment has led to the development of new
 #### 5. Quantitative remote sensing
    
 - [Soil Moisture Estimation](https://code.earthengine.google.com/?scriptPath=users%2Fializarazos%2Faplicaciones%3Amorocco%2Fssm7)
-
 - [Reference Soil Moisture Data](https://code.earthengine.google.com/?asset=users/ializarazos/soil/MV_S1A_MAROC-HAOUZ_20191205T183323)
    
 #### 6. Land cover change analysis
