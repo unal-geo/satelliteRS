@@ -25,11 +25,14 @@ Here you will find code and tutorials contributed by researchers at Universidad 
    
 #### 6. Land cover change analysis
    
-- [Ilustration of metrics for land cover change analysis](https://rpubs.com/ials2un/LUC_MODIS)
+- [Ilustration of metrics for land cover change analysis in R](https://rpubs.com/ials2un/LUC_MODIS)
+
+- Land Cover Change from MODIS in Python [![](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/ials/conda/master?filepath=tresperlas.ipynb)
 
 #### 7.  Time series analysis
 
 - [Illustration of a web service for vegetation index time series](https://rpubs.com/ials2un/628200)
+
 
 ### Links
 
